@@ -1,4 +1,4 @@
 streamlit
 requests
-time
-logging
+sqlalchemy
+psycopg2-binary
